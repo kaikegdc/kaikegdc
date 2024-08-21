@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## meu nome kaike Goncalves Da Cunha
 ## Estou estudando no alura 
-## Estou me desenvolvendom na linnguagem JavaScript
+## Estou me desenvolvendom na linguagem JavaScript
 ## Ultilizo esse esse espaco para minha organizacao e compartilhamento dos meus projetos desenvolvidos
 **kaikegdc/kaikegdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
